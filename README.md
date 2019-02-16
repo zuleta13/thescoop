@@ -1,6 +1,7 @@
 # The Scoop
 
 ## Install js-yaml 
+It is absolutely necessary to install the Yaml module so that the database can be loaded and saved.
 
 ## Project Overview
 
